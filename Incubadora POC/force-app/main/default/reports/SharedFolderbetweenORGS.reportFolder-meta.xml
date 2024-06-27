@@ -2,7 +2,7 @@
 <ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>santiago.bocca@wise-koala-cagcge.com</sharedTo>
+        <sharedTo>santiago.bocca@resourceful-raccoon-dosmtf.com</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <name>Shared Folder between ORGS</name>
